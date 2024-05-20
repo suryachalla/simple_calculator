@@ -8,7 +8,7 @@ function clr(){
     output.value = "";
 }
 
-
+console.log("calculator")
 
 let result=()=>{
     try{
